@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Blood pressure measured",
+        "price": "30 tk",
+        "description": "Blood pressure is measured very carefully and accurate information is given.",
+        "img": "https://i.ibb.co/vx3WDw2/service1.png"
+    },
+    {
+        "id": 2,
+        "name": "Blood sugar Measured",
+        "price": "30 tk",
+        "description": "Blood sugar is measured very carefully and accurate information is given.",
+        "img": "https://i.ibb.co/7X9zMbm/service2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "weight Measured",
+        "price": "10 tk",
+        "description": "Height and weight are accurately measured on digital machines.",
+        "img": "https://i.ibb.co/syGwYCG/service3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Selling medicine on prescription",
+        "price": "According to the price of the medicine (300 tk)",
+        "description": "The prescription given by the doctor is looked at very carefully and the right amount of medicine is given.",
+        "img": "https://i.ibb.co/S62nxCY/service4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Diagnosing and giving medicine",
+        "price": "visit 300 tk",
+        "description": "A pharmacist diagnoses the disease by looking at the patient's symptoms and prescribes the necessary medicines.",
+        "img": "https://i.ibb.co/9Yfkfkd/service5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Foreign medicine available",
+        "price": "According to the price of the medicine (500)",
+        "description": "All types of local and foreign medicines are available at Well Pharma.",
+        "img": "https://i.ibb.co/FKPJkrj/service7.jpg"
+    }
+]

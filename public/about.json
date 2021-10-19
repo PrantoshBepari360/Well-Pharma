@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Ace plus",
+        "id": "101",
+        "description": "Ace Plus Tablet is used for headache, migraine, toothache, or backache. Learn how to use Ace Plus, and it's dosage, warnings, side-effects, and more.",
+        "price": "150",
+        "img": "https://i.ibb.co/s2CKhrf/ACE-PLUS.jpg"
+    },
+    {
+        "name": "Acetram",
+        "id": "210",
+        "description": "Read the directions on the product label, patient guide, or medicine guide provided by the medicine company or your pharmacist before starting to use Acetram Tablet.",
+        "price": "190",
+        "img": "https://i.ibb.co/8cDQ90P/ACETRAM.jpg"
+    },
+    {
+        "name": "Alatrol",
+        "id": "121",
+        "description": "Alatrol Syrup is used for symptoms of allergic inflammation of the nasal airways due to allergens (seasonal allergic rhinitis), allergic symptoms present ...",
+        "price": "150",
+        "img": "https://i.ibb.co/n8vjd8j/Alatrol-Tablet-PRO-l.jpg"
+    },
+    {
+        "name": "Sergel",
+        "id": "131",
+        "description": "Sergel is also used for the short-term treatment of backflow of stomach acid into esophagus, to reduce the occurrence of stomach ulcers related to the repeated ...",
+        "price": "350",
+        "img": "https://i.ibb.co/Jtgs6qj/download-removebg-preview.png"
+    },
+    {
+        "name": "Montene",
+        "id": "141",
+        "description": "Montene Tablet is used for asthma, seasonal allergies such as irritation in the eyes, runny nose and sore throat, allergic rhinitis, or perennial allergic ...",
+        "price": "250",
+        "img": "https://i.ibb.co/L1MWkHs/featuregallery-1533362369.jpg"
+    },
+    {
+        "name": "gintex",
+        "id": "151",
+        "description": "Gentax Injection is used for treatment of serious bacterial infections caused by pseudomonas aeruginosa, proteus species, escherichia coli, ...",
+        "price": "230",
+        "img": "https://i.ibb.co/QvX9gkw/GINTEX.jpg"
+    }
+]
